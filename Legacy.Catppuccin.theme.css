@@ -362,11 +362,12 @@
 
 .footer_e0b400 {
 	background-color: var(--background-secondary) !important;
-}/* Payment Settings */
+}
+
+/* Payment Settings */
 .blockedPaymentsWarning_d953d0 {
 	background-color: var(--background-secondary) !important;
 }
-
 .paymentPane__541d7,
 .payment_f27ac6,
 .paginator__28ba5 {
@@ -374,5 +375,31 @@
 }
 
 .codeRedemptionRedirect_b3eca7 {
-	background-color: var(--background-secondary) !important;
+ 	background-color: var(--background-secondary) !important;
+}
+
+/* Chat Tips */
+/* Users */
+.autocomplete__743a5 {
+ 	background-color: var(--background-secondary) !important;
+}
+/* Bots */
+.categoryHeader__70c8e {
+ 	background-color: var(--background-secondary) !important;
+}
+
+/* Channels & Roles */
+/* Settings */
+.container__03ec9,
+.scrollerContainer_dda72c {
+ 	background-color: var(--background-secondary) !important;
+}
+/* Channels */
+.container__6b2e5 {
+ 	background-color: var(--background-secondary) !important;
+}
+
+/* Members Page */
+.page_e5cc79 {
+ 	background-color: var(--background-secondary) !important;
 }
