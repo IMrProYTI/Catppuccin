@@ -6,7 +6,7 @@
  * @version 0.0.1
  * @description 🎮 Soothing pastel theme for Discord
  * @website https://github.com/IMrProYTI/Catppuccin
- * @source https://github.com/IMrProYTI/Catppuccin
+ * @source https://raw.githubusercontent.com/IMrProYTI/Catppuccin/main/Legacy.Catppuccin.theme.css
  * @invite fp3hyfsKZN
  **/
 
@@ -349,4 +349,30 @@
 .theme-dark .container-2IKOsH,
 .theme-dark .header-3xB4vB {
 	background-color: unset;
+}/* Forum Channels */
+.themed_b152d4,
+.container_b92032 {
+	background-color: var(--background-primary) !important;
+}
+
+/* Modal Windows */
+.root_a28985 {
+	background-color: var(--background-primary) !important;
+}
+
+.footer_e0b400 {
+	background-color: var(--background-secondary) !important;
+}/* Payment Settings */
+.blockedPaymentsWarning_d953d0 {
+	background-color: var(--background-secondary) !important;
+}
+
+.paymentPane__541d7,
+.payment_f27ac6,
+.paginator__28ba5 {
+	background-color: var(--background-secondary) !important;
+}
+
+.codeRedemptionRedirect_b3eca7 {
+	background-color: var(--background-secondary) !important;
 }
